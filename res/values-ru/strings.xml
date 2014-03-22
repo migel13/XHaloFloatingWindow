@@ -110,6 +110,8 @@
     <string name="pref_movable_resizing_aero_snap_enabled_summary">Перетащите окно к любым 4 краям экрана, чтобы изменить его размер соответственно этой части экрана, подобно эффекту Aero Snap в ОС Windows.</string>
     <string name="pref_movable_resizing_aero_snap_delay_title">Задержка захвата</string>
     <string name="pref_movable_resizing_aero_snap_delay_summary">Задержка в миллисекундах перед показом схемы захвата окна.</string>
+   <string name="pref_movable_resizing_aero_snap_splitbar_title">Разделитель</string>
+    <string name="pref_movable_resizing_aero_snap_splitbar_summary">Когда 2 окна зафиксированы на правой и левой половинах экрана, показывать разделитель между ними для изменения размера.</string>	
     <string name="pref_movable_moving_move_ab_title">Разрешить использование верхней панели для перемещения</string>
     <string name="pref_movable_moving_move_ab_summary">Использовать верхнюю панель (или верхнюю область для приложений без верхней панели), для перемещений окна.</string>
     <string name="pref_movable_triangle_enable_title">Показывать треугольник</string>
@@ -268,3 +270,4 @@
     <string name="pref_statusbar_taskbar_number_summary">Установить количество приложений,отображаемых в уведомлениях\n(Требуется перезапуск SystemUI)</string>
     <string name="pref_statusbar_taskbar_number_title">Максимальное количество приложений</string>
 	
+</resources>
